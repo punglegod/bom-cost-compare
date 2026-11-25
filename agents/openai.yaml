@@ -1,0 +1,4 @@
+interface:
+  display_name: "BOM 价差对比与逐料小结"
+  short_description: "比较现款和参考款的成本明细，逐料写出双方料号、价差及原因，核平含税总差"
+  default_prompt: "使用 $bom-cost-compare 核对这些现款及参考款的成本明细，逐项写出料号、用量或单价变化、每台未税差额，并核平含税价差。"
